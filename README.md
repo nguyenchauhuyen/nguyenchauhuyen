@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nguyenchauhuyen
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on Crypto trading
-- 📫 How to reach me ???
+- 🌱 I’m currently working with React/Redux/MaterialUI/NodeJS
+- 💞️ Reach me at https://www.linkedin.com/in/nguyenchauhuyen/
 
 <!---
 nguyenchauhuyen/nguyenchauhuyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
